@@ -1,7 +1,7 @@
 # NoMorePrimsLauncher
 
 <p align="center">
-  <img src="nomoreprimslauncher.png" alt="NoMorePrimsLauncher" width="150">
+  <img src="https://github.com/NoMorePrimsLauncher/.github/blob/main/nomoreprimslauncher.png?raw=true" alt="NoMorePrimsLauncher" width="150">
 </p>
 
 <p align="center">
