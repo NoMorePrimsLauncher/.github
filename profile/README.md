@@ -5,21 +5,29 @@
 </p>
 
 <p align="center">
-  <strong>Less Fanboyism. More Critical Thinking.</strong>
+  <strong>Stop treating PrimsLauncher like it's the best thing ever.</strong>
 </p>
 
-## Join the Movement
+<p align="center">
+  <a href="README.md">🇬🇧 English</a> | <a href="README.es.md">🇪🇸 Español</a>
+</p>
 
-Agree with our stance and want to become part of **NoMorePrimsLauncher**?
+---
 
-Here's how to join:
+Let's be real. PrimsLauncher isn't the masterpiece people make it out to be. It's part of a long chain of forks, yet people keep putting it on a pedestal like it's the best Minecraft launcher ever made.
 
-1. Accept the invitation to join our GitHub organization as a contributor.
-2. Make your organization membership public in your GitHub profile settings.
+We're tired of the hype. A popular project isn't automatically a great project, and forking existing software doesn't make you a revolutionary.
 
-Our goal is to build a visible community of people who share our stance and want to challenge the hype surrounding PrimsLauncher.
+**Think for yourself. Stop following the hype.**
 
-**Join us. Make yourself visible. Be part of the movement.**
+## Join Us
+
+If you agree with us and want to be part of the movement:
+
+1. Accept the invitation to join this organization as a contributor.
+2. Set your membership in this organization to **Public** on your GitHub profile.
+
+Don't just agree from the sidelines. Stand with us.
 
 <p align="center">
   <strong>#NoMorePrimsLauncher</strong>
